@@ -4,13 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Función para el botón SI
             siBtn.addEventListener('click', function() {
-                alert('Ana,
-tu mirada me provoca,
-tu sonrisa me desarma,
-y cuando te tengo cerca,
-hasta mis pensamientos
-se vuelven un poco más atrevidos.
- ');
+                alert('Ana, tu mirada me provoca, tu sonrisa me desarma, y cuando te tengo cerca, hasta mis pensamientos se vuelven un poco más atrevidos.');
             });
             
             // Función para el botón NO
