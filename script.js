@@ -4,7 +4,13 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Función para el botón SI
             siBtn.addEventListener('click', function() {
-                alert('COMO DIJO PABLO NERUDA: : En un beso sabrás todo lo que he callado ');
+                alert('Ana,
+tu mirada me provoca,
+tu sonrisa me desarma,
+y cuando te tengo cerca,
+hasta mis pensamientos
+se vuelven un poco más atrevidos.
+ ');
             });
             
             // Función para el botón NO
